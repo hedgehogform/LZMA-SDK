@@ -2,6 +2,8 @@
 
 Unofficial mirror of 7-zip [LZMA SDK](https://www.7-zip.org/sdk.html) in extracted form.
 
+Current Version: 25.01
+
 ## Why?
 
 I needed access via git and cmake cannot extract 7z I just wanted it to be simple as possible.
